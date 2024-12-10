@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+server_pos/.vs
+server_pos/out
